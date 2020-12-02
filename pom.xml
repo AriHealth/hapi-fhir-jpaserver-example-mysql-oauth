@@ -23,7 +23,7 @@
         <!-- Dependency Versions -->
         <derby_version>10.14.2.0</derby_version>
         <jaxb_api_version>2.3.1</jaxb_api_version>
-        <jetty_version>9.4.17.v20190418</jetty_version>
+        <jetty_version>9.4.35.v20201120</jetty_version>
         <phloc_schematron_version>2.7.1</phloc_schematron_version>
         <spring_version>5.1.8.RELEASE</spring_version>
         <thymeleaf-version>3.0.11.RELEASE</thymeleaf-version>
