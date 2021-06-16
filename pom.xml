@@ -29,7 +29,7 @@
         <thymeleaf-version>3.0.11.RELEASE</thymeleaf-version>
         <ebay_cors_filter_version>1.0.1</ebay_cors_filter_version>
         <commons_dbcp2>2.6.0</commons_dbcp2>
-        <hapi.version>3.8.0</hapi.version>
+        <hapi.version>5.4.0</hapi.version>
         <mariadb.version>2.4.3</mariadb.version>
         <mysql.version>8.0.16</mysql.version>
         <postgresql.version>42.2.6</postgresql.version>
